@@ -72,6 +72,9 @@ db.sqlite3-journal
 # Media files - ignore all files but keep folder structure
 media/
 !media/.gitkeep
+.jpg
+.jpeg
+.png
 
 
 # Flask stuff:
@@ -228,4 +231,5 @@ pycache/
 
 # XML files
 *.xml
+
 
